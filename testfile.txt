@@ -1,0 +1,11 @@
+import paramiko
+
+a = 10
+b = 20
+
+c = a + b
+
+if c > 50:
+	print(" The answer is greater than 50")
+else:
+	print(" We still have more maths to do to get to 50)
